@@ -1,3 +1,9 @@
+A simple Todo application I mve using React.
+
+Before running the app, copy-paste this in the terminal:
+
+npm install react-icons sweetalert2 uuid bootstrap react-spinners
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
