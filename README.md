@@ -1,4 +1,4 @@
-A simple Todo application I made using React.
+A simple Todo application I made using React available on : https://miskulinivan.github.io/react-todo-app/
 
 # Before running the app, copy-paste this in the terminal:
 
